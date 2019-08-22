@@ -1,7 +1,4 @@
-["0-0.1"]
-julia = "0.6-0"
-
-["0.2-0"]
+["0.2"]
 AlgebraicMultigrid = "0"
 Compat = "1-2"
 LimitedLDLFactorizations = "0"
